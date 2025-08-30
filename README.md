@@ -1,3 +1,8 @@
+<img width="1900" height="905" alt="WhiteMode" src="https://github.com/user-attachments/assets/2c5f05c8-5442-41f3-a7c9-3cdb0cc7eb38" />
+<img width="1905" height="186" alt="Navbar" src="https://github.com/user-attachments/assets/68e2d7e3-aadc-403d-a2af-9fb036a39caa" />
+<img width="1919" height="907" alt="HomePage" src="https://github.com/user-attachments/assets/d9fa5e0d-7c3e-43cc-986a-fec7e55a39f4" />
+<img width="1919" height="910" alt="EditPage" src="https://github.com/user-attachments/assets/faebb2ad-a74b-4c9c-bab9-03093829ab68" />
+<img width="1914" height="902" alt="CreatePage" src="https://github.com/user-attachments/assets/5ad92a81-65be-4bdf-8880-2b2632ab65c4" />
 # Film Diary
 
 A full-stack Film Diary application built with React + Chakra UI + Zustand for the frontend and Node.js + Express + MongoDB for the backend.
