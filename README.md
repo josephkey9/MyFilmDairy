@@ -19,9 +19,11 @@ A full-stack Film Diary application built with React + Chakra UI + Zustand for t
 - Backend: Node.js, Express, MongoDB, Mongoose, Dotenv
 - API: TMDB (for movie posters)
 
-<img width="1899" height="902" alt="Ekran görüntüsü 2025-08-31 013127" src="https://github.com/user-attachments/assets/088946d1-ed66-405f-95f9-f9a7783a302b" />
-<img width="1919" height="905" alt="Ekran görüntüsü 2025-08-31 013110" src="https://github.com/user-attachments/assets/86c2ee43-cd87-4f04-a4b1-41bd594e5e41" />
 <img width="1919" height="906" alt="Ekran görüntüsü 2025-08-31 013058" src="https://github.com/user-attachments/assets/e87e368f-54b0-4c63-846d-bedbeb9a0ffa" />
+<img width="1919" height="905" alt="Ekran görüntüsü 2025-08-31 013110" src="https://github.com/user-attachments/assets/86c2ee43-cd87-4f04-a4b1-41bd594e5e41" />
+<img width="1899" height="902" alt="Ekran görüntüsü 2025-08-31 013127" src="https://github.com/user-attachments/assets/088946d1-ed66-405f-95f9-f9a7783a302b" />
+
+
 
 
 ## Setup
