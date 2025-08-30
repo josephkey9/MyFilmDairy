@@ -32,6 +32,5 @@ cd frontend
 npm install
 npm run dev
 
-![HomePage](https://github.com/user-attachments/assets/81f4e557-bf1b-461d-b4ff-43c09825901e)
 
 
