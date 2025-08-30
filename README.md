@@ -30,24 +30,12 @@ npm run dev
 # Frontend
 cd frontend
 npm install
-npm run dev
+npm run dev<img width="1900" height="905" alt="WhiteMode" src="https://github.com/user-attachments/assets/dbc8ee2e-eb4c-43a9-987c-2e213f1abb49" />
+<img width="1905" height="186" alt="Navbar" src="https://github.com/user-attachments/assets/6004452c-5897-422e-82cc-f4fe3f1b2dff" />
+<img width="1919" height="907" alt="HomePage" src="https://github.com/user-attachments/assets/a761c83e-6a40-423d-89a8-d35209e28a74" />
+<img width="1919" height="910" alt="EditPage" src="https://github.com/user-attachments/assets/efea82d1-757d-4ce0-8e21-e9c56cf08958" />
+<img width="1914" height="902" alt="CreatePage" src="https://github.com/user-attachments/assets/ade7ec6a-2d82-4338-bc33-fefb1b39abeb" />
 
-
-
-
-<img width="1914" height="902" alt="CreatePage" src="https://github.com/user-attachments/assets/f3ca26e3-db0a-4f99-8255-4438f21665a6" />
-
-
-<img width="1919" height="910" alt="EditPage" src="https://github.com/user-attachments/assets/a43834a4-2c2a-4cf5-a847-f986eb8a5a68" />
-
-
-<img width="1919" height="907" alt="HomePage" src="https://github.com/user-attachments/assets/85b8b598-848e-46ce-875f-73549d8b429d" />
-
-
-<img width="1900" height="905" alt="WhiteMode" src="https://github.com/user-attachments/assets/cd41af03-1f28-4e19-b88c-22047bc58701" />
-
-
-<img width="1905" height="186" alt="Navbar" src="https://github.com/user-attachments/assets/380b1126-6325-4480-bb34-1cfae6b86929" />
 
 
 
