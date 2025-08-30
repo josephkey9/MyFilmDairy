@@ -30,8 +30,8 @@ npm run dev
 # Frontend
 cd frontend
 npm install
-npm run dev   <img width="1905" height="186" alt="Ekran görüntüsü 2025-08-31 011318" src="https://github.com/user-attachments/assets/b989e270-e246-490d-93ea-6d58cfaca17a" />
-<img width="1919" height="910" alt="Ekran görüntüsü 2025-08-31 011301" src="https://github.com/user-attachments/assets/fbf045f6-9916-4366-9d71-2d73edb47bdc" />
-<img width="1919" height="906" alt="Ekran görüntüsü 2025-08-31 011229" src="https://github.com/user-attachments/assets/47ef14cb-3ef0-4d94-9027-dadc45e5699c" />
-<img width="1914" height="902" alt="Ekran görüntüsü 2025-08-31 011212" src="https://github.com/user-attachments/assets/7093c079-a28f-4271-9da3-c245ca10186c" />
-<img width="1919" height="907" alt="Ekran görüntüsü 2025-08-31 011120" src="https://github.com/user-attachments/assets/2b2f400a-2a23-4b6b-a90d-f723a1cfa630" />
+npm run dev
+
+![HomePage](https://github.com/user-attachments/assets/81f4e557-bf1b-461d-b4ff-43c09825901e)
+
+
