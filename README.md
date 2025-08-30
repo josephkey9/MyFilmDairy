@@ -1,9 +1,3 @@
-<img width="1900" height="905" alt="WhiteMode" src="https://github.com/user-attachments/assets/82d9c282-60cc-4641-b974-e965e48bf1f1" />
-<img width="1905" height="186" alt="Navbar" src="https://github.com/user-attachments/assets/7e2e9603-289b-4819-a953-1a0c33cbe386" />
-<img width="1919" height="907" alt="HomePage" src="https://github.com/user-attachments/assets/78ea554a-6fd4-43bd-9308-b5a5b5a6c763" />
-<img width="1919" height="910" alt="EditPage" src="https://github.com/user-attachments/assets/c5e4a7ab-daa3-4c58-969d-ecfac1d700ab" />
-<img width="1914" height="902" alt="CreatePage" src="https://github.com/user-attachments/assets/2d9c3eee-c738-478f-936e-672b6bd23bfd" />
-
 # Film Diary
 
 A full-stack Film Diary application built with React + Chakra UI + Zustand for the frontend and Node.js + Express + MongoDB for the backend.
@@ -24,6 +18,11 @@ A full-stack Film Diary application built with React + Chakra UI + Zustand for t
 - Frontend: React, Chakra UI, Zustand, React Router, React Icons
 - Backend: Node.js, Express, MongoDB, Mongoose, Dotenv
 - API: TMDB (for movie posters)
+
+<img width="1899" height="902" alt="Ekran görüntüsü 2025-08-31 013127" src="https://github.com/user-attachments/assets/088946d1-ed66-405f-95f9-f9a7783a302b" />
+<img width="1919" height="905" alt="Ekran görüntüsü 2025-08-31 013110" src="https://github.com/user-attachments/assets/86c2ee43-cd87-4f04-a4b1-41bd594e5e41" />
+<img width="1919" height="906" alt="Ekran görüntüsü 2025-08-31 013058" src="https://github.com/user-attachments/assets/e87e368f-54b0-4c63-846d-bedbeb9a0ffa" />
+
 
 ## Setup
 
