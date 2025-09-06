@@ -13,13 +13,31 @@ export const getFilm = async (req,res)=>{
 };
 
 export const postFilm = async (req,res)=>{
-    const film = req.body; // kullanıcıdan alacağımız filmler
-    if(!film.name || !film.explain || !film.image || !film.rating){
-        res.status(400).json({success:false , message:"Lütfen Tüm Alanları Doldurun."})
+   const { name, explain, rating } = req.body; 
+
+     if(!name || !explain || rating === undefined || rating === null){
+        return res.status(400).json({success:false , message:"Lütfen Tüm Alanları Doldurun."});
     }
-    const newFilm = new Film(film);
 
     try {
+        const response = await fetch(
+          `https://api.themoviedb.org/3/search/movie?api_key=${process.env.TMDB_API_KEY}&query=${encodeURIComponent(name)}&language=tr-TR`
+        );
+        const data = await response.json();
+
+        let posterUrl = "https://via.placeholder.com/300x450?text=No+Poster";
+
+        if (data.results && data.results.length > 0 && data.results[0].poster_path) {
+          posterUrl = `https://image.tmdb.org/t/p/w500${data.results[0].poster_path}`;
+        }
+
+        const newFilm = new Film({
+            name,
+            explain,
+            rating,
+            image: posterUrl
+        });
+
         await newFilm.save();
         res.status(201).json({success:true , data : newFilm})
     } catch (error) {
